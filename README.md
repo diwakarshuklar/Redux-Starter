@@ -3,7 +3,7 @@ This repository can be starting point for react native redux based projects.
 
 ### Project Structure (src folder only)
 
-   ├── components                    # (This folder will contain all the components, except screen components)  
+   |+ components                    # (This folder will contain all the components, except screen components)  
    ├── services                      # (This folder will contain all api call code)  
    ├── actions                       # (This folder will contain all redux actions)  
    ├── reducers                      # (This folder will contain all reducers)  
